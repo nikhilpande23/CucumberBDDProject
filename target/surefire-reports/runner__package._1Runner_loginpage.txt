@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner__package._1Runner_loginpage
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 122.793 s - in runner__package._1Runner_loginpage
